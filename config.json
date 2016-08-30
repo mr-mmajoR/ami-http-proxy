@@ -1,0 +1,13 @@
+{
+	"main":{
+		"port":"8888",
+		"interface":"",
+		"key":"123456789"
+	},
+	"ami":{
+		"host":"192.168.234.8",
+		"port":"5038",
+		"username":"1c_ami_router",
+		"password":"123456789"
+	}
+}
